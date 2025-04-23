@@ -47,11 +47,3 @@ The application consists of the following main components:
 - [Filter Operations](https://docs.sqlalchemy.org/en/13/orm/query.html)
 - [Flask-SQLAlchemy Documentation](https://flask-sqlalchemy.palletsprojects.com/)
 
-## Grading Criteria
-
-| Score | Rating | Correctness | Code Quality |
-|-------|--------|-------------|--------------|
-| **1** | Needs Improvement | Required sections missing or not functional | Messy code, missing docstrings |
-| **2** | Basic | Most routes functional, some hard-coded | Some messy code, missing some docstrings |
-| **3** | Proficient | All routes functional | Clear code, complete docstrings |
-| **4** | Advanced | Stretch challenges complete | Extensible code with helper functions |
